@@ -1,13 +1,13 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const char font[]        = "SauceCodePro Nerd Font:antialias=true:autohint=true:pixelsize=14:style=Medium,Regular";
-static const char* normbgcolor  = "#222222";
-static const char* normfgcolor  = "#cccccc";
-static const char* selbgcolor   = "#555555";
-static const char* selfgcolor   = "#ffffff";
-static const char* urgbgcolor   = "#111111";
-static const char* urgfgcolor   = "#cc0000";
+static const char font[]        = "Bitstream-Vera-Serif-Bold:antialias=true:autohint=true:pixelsize=12:style=Medium,Regular";
+static const char* normbgcolor  = "#282a36";
+static const char* normfgcolor  = "#6272a4";
+static const char* selbgcolor   = "#44475a";
+static const char* selfgcolor   = "#f8f8f2";
+static const char* urgbgcolor   = "#ff5555";
+static const char* urgfgcolor   = "#f8f8f2";
 static const char before[]      = "<";
 static const char after[]       = ">";
 static const char titletrim[]   = "\u2026";
